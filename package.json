@@ -14,7 +14,7 @@
     "lodash": "^4.17.15",
     "material-ui-dropzone": "^2.4.5",
     "mdi-material-ui": "^6.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "numeral": "^2.0.6",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
